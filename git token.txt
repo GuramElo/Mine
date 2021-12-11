@@ -1,0 +1,5 @@
+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
+https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
+
+https://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@github.com/GuramElo/Angular.git
